@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Division", "Division\Divisi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logistics", "Logistics\Logistics.csproj", "{AC7BD239-385F-4992-B640-144FAF21454D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart Lily", "LillySmart\Smart Lily.csproj", "{77D78478-ED3B-4317-8BDD-37A28189DF8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{AC7BD239-385F-4992-B640-144FAF21454D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC7BD239-385F-4992-B640-144FAF21454D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC7BD239-385F-4992-B640-144FAF21454D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D78478-ED3B-4317-8BDD-37A28189DF8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D78478-ED3B-4317-8BDD-37A28189DF8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D78478-ED3B-4317-8BDD-37A28189DF8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D78478-ED3B-4317-8BDD-37A28189DF8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

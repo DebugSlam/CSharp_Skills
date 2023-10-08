@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Csharp_Book_Solutions;
+namespace Csharp_Book;
 class HelloWorld
 {
     static void Main()
