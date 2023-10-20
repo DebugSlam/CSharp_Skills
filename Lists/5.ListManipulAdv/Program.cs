@@ -2,6 +2,8 @@
 
 string command = Console.ReadLine();
 
+bool list = true;
+
 while (command != "end")
 
 {
@@ -44,6 +46,8 @@ while (command != "end")
 
                 Console.Write(element + " ");
             }
+
+       
         }
 
         Console.WriteLine();
@@ -92,10 +96,25 @@ while (command != "end")
             {
                 Console.Write(element + " ");
             }
+        
         }
         Console.WriteLine();
+        list = false;
+
     }
 
     command = Console.ReadLine();
+  
+}
+
+if(list)
+{
+
+    foreach (var num in numbers)
+    {
+        Console.Write(num + " ");
+
+    }
+    Console.WriteLine();
 
 }
