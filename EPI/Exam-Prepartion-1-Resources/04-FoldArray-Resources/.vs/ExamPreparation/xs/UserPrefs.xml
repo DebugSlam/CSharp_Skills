@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{97738044-3501-4162-BE00-4C012BA71AF3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp.Tests/FoldSumTests.cs">
+    <Files>
+      <File FileName="TestApp.Tests/FoldSumTests.cs" Line="27" Column="1" />
+      <File FileName="TestApp/FoldSum.cs" Line="11" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExamPreparation" expanded="True">
+            <Node name="TestApp" expanded="True" />
+            <Node name="TestApp.Tests" expanded="True">
+              <Node name="FoldSumTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ExamPreparation" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestApp.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
