@@ -1,0 +1,62 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp.UnitTests/MatchUrlsTests.cs">
+    <Files>
+      <File FileName="TestApp.UnitTests/EmailValidatorTests.cs" Line="25" Column="18" />
+      <File FileName="TestApp/EmailValidator.cs" Line="9" Column="28" />
+      <File FileName="TestApp/RepeatStrings.cs" Line="1" Column="1" />
+      <File FileName="TestApp.UnitTests/RepeatStringsTests.cs" Line="19" Column="55" />
+      <File FileName="TestApp.UnitTests/SubstringTests.cs" Line="49" Column="61" />
+      <File FileName="TestApp/Substring.cs" Line="1" Column="1" />
+      <File FileName="TestApp.UnitTests/TextFilterTests.cs" Line="55" Column="8" />
+      <File FileName="TestApp/TextFilter.cs" Line="1" Column="1" />
+      <File FileName="TestApp.UnitTests/ReverseConcatenateTests.cs" Line="45" Column="1" />
+      <File FileName="TestApp/ReverseConcatenate.cs" Line="1" Column="1" />
+      <File FileName="TestApp.UnitTests/PatternTests.cs" Line="44" Column="9" />
+      <File FileName="TestApp.UnitTests/MatchNamesTests.cs" Line="45" Column="52" />
+      <File FileName="TestApp.UnitTests/MatchPhoneNumbersTests.cs" Line="63" Column="2" />
+      <File FileName="TestApp/MatchPhoneNumbers.cs" Line="1" Column="1" />
+      <File FileName="TestApp.UnitTests/MatchDatesTests.cs" Line="39" Column="12" />
+      <File FileName="TestApp/MatchDates.cs" Line="1" Column="1" />
+      <File FileName="TestApp.UnitTests/MatchUrlsTests.cs" Line="72" Column="67" />
+      <File FileName="TestApp/MatchUrls.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExerciseUnitTestingStringsRegEx" expanded="True">
+            <Node name="TestApp" expanded="True" />
+            <Node name="TestApp.UnitTests" expanded="True">
+              <Node name="MatchUrlsTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ExerciseUnitTestingStringsRegEx">
+            <Node name="TestApp.UnitTests">
+              <Node name="TestApp.UnitTests">
+                <Node name="MatchNamesTests" expanded="True" />
+                <Node name="MatchPhoneNumbersTests" expanded="True" />
+                <Node name="PatternTests" expanded="True" />
+                <Node name="RepeatStringsTests" expanded="True" />
+                <Node name="ReverseConcatenateTests" expanded="True" />
+                <Node name="SubstringTests" expanded="True" />
+                <Node name="TextFilterTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

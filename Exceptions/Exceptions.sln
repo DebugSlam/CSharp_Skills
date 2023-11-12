@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{84F40378-9D98-488E-85C1-1BDE634D1E1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegExPhone", "RegExPhone\RegExPhone.csproj", "{FECDE5AE-F935-4A77-B04D-6C7B276E39FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dates", "Dates\Dates.csproj", "{78EA683F-E2F5-42CD-966A-6DF9A520D0E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84F40378-9D98-488E-85C1-1BDE634D1E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F40378-9D98-488E-85C1-1BDE634D1E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F40378-9D98-488E-85C1-1BDE634D1E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F40378-9D98-488E-85C1-1BDE634D1E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FECDE5AE-F935-4A77-B04D-6C7B276E39FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECDE5AE-F935-4A77-B04D-6C7B276E39FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECDE5AE-F935-4A77-B04D-6C7B276E39FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECDE5AE-F935-4A77-B04D-6C7B276E39FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78EA683F-E2F5-42CD-966A-6DF9A520D0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78EA683F-E2F5-42CD-966A-6DF9A520D0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78EA683F-E2F5-42CD-966A-6DF9A520D0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78EA683F-E2F5-42CD-966A-6DF9A520D0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91C9E546-B252-4FFC-9D61-D6E4467BF5F7}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.StandardHeader = $1
+	EndGlobalSection
+EndGlobal
