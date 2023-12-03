@@ -1,0 +1,15 @@
+/Users/kalinaivanova/Projects/Tasks/ObjClassEx1/obj/Debug/net6.0/ObjClassEx1.csproj.AssemblyReference.cache
+/Users/kalinaivanova/Projects/Tasks/ObjClassEx1/obj/Debug/net6.0/ObjClassEx1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalinaivanova/Projects/Tasks/ObjClassEx1/obj/Debug/net6.0/ObjClassEx1.AssemblyInfoInputs.cache
+/Users/kalinaivanova/Projects/Tasks/ObjClassEx1/obj/Debug/net6.0/ObjClassEx1.AssemblyInfo.cs
+/Users/kalinaivanova/Projects/Tasks/ObjClassEx1/obj/Debug/net6.0/ObjClassEx1.csproj.CoreCompileInputs.cache
+/Users/kalinaivanova/Projects/Tasks/ObjClassEx1/bin/Debug/net6.0/ObjClassEx1
+/Users/kalinaivanova/Projects/Tasks/ObjClassEx1/bin/Debug/net6.0/ObjClassEx1.deps.json
+/Users/kalinaivanova/Projects/Tasks/ObjClassEx1/bin/Debug/net6.0/ObjClassEx1.runtimeconfig.json
+/Users/kalinaivanova/Projects/Tasks/ObjClassEx1/bin/Debug/net6.0/ObjClassEx1.dll
+/Users/kalinaivanova/Projects/Tasks/ObjClassEx1/bin/Debug/net6.0/ObjClassEx1.pdb
+/Users/kalinaivanova/Projects/Tasks/ObjClassEx1/obj/Debug/net6.0/ObjClassEx1.dll
+/Users/kalinaivanova/Projects/Tasks/ObjClassEx1/obj/Debug/net6.0/refint/ObjClassEx1.dll
+/Users/kalinaivanova/Projects/Tasks/ObjClassEx1/obj/Debug/net6.0/ObjClassEx1.pdb
+/Users/kalinaivanova/Projects/Tasks/ObjClassEx1/obj/Debug/net6.0/ObjClassEx1.genruntimeconfig.cache
+/Users/kalinaivanova/Projects/Tasks/ObjClassEx1/obj/Debug/net6.0/ref/ObjClassEx1.dll

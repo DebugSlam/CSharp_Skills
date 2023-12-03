@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{9C6CA403-A913-42AA-B8D3-BE9A36452270}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ObjClassEx1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PokemonTrainer FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TeamworkProj/Program.cs">
+    <Files>
+      <File FileName="ObjClassEx1/Program.cs" />
+      <File FileName="Articles/Program.cs" />
+      <File FileName="TeamworkProj/Program.cs" Line="23" Column="1" />
+      <File FileName="PokemonTrainer/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tasks" expanded="True">
+            <Node name="Articles" expanded="True" />
+            <Node name="ObjClassEx1" expanded="True" />
+            <Node name="TeamworkProj" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Articles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TeamworkProj PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

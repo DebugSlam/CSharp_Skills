@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp.UnitTests/ArticleTests.cs">
+    <Files>
+      <File FileName="TestApp/Article.cs" Line="24" Column="37" />
+      <File FileName="TestApp.UnitTests/ArticleTests.cs" Line="44" Column="41" />
+      <File FileName="TestApp/Student.cs" />
+      <File FileName="TestApp.UnitTests/StudentTests.cs" />
+      <File FileName="TestApp.UnitTests/SongTests.cs" Line="9" Column="5" />
+      <File FileName="TestApp/Store/Box.cs" />
+      <File FileName="TestApp/Store/Shop.cs" />
+      <File FileName="TestApp/Song.cs" />
+      <File FileName="TestApp.UnitTests/ShopTests.cs" Line="17" Column="6" />
+      <File FileName="TestApp.UnitTests/VehicleTests.cs" />
+      <File FileName="TestApp/Vehicle/Vehicles.cs" />
+      <File FileName="TestApp/Vehicle/Car.cs" />
+      <File FileName="TestApp/Vehicle/Truck.cs" />
+      <File FileName="TestApp/Vehicle/Catalogue.cs" />
+      <File FileName="TestApp.UnitTests/PersonTests.cs" Line="30" Column="1" />
+      <File FileName="TestApp/Person.cs" />
+      <File FileName="TestApp.UnitTests/PlanetTests.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExerciseUnitTestingClasses" expanded="True">
+            <Node name="TestApp" expanded="True">
+              <Node name="Store" expanded="True" />
+              <Node name="Vehicle" expanded="True" />
+            </Node>
+            <Node name="TestApp.UnitTests" expanded="True">
+              <Node name="ArticleTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ExerciseUnitTestingClasses">
+            <Node name="TestApp.UnitTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestApp.UnitTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/kalinaivanova/Projects/Tasks/TeamworkProj/bin/Debug/net7.0/TeamworkProj
+/Users/kalinaivanova/Projects/Tasks/TeamworkProj/bin/Debug/net7.0/TeamworkProj.deps.json
+/Users/kalinaivanova/Projects/Tasks/TeamworkProj/bin/Debug/net7.0/TeamworkProj.runtimeconfig.json
+/Users/kalinaivanova/Projects/Tasks/TeamworkProj/bin/Debug/net7.0/TeamworkProj.dll
+/Users/kalinaivanova/Projects/Tasks/TeamworkProj/bin/Debug/net7.0/TeamworkProj.pdb
+/Users/kalinaivanova/Projects/Tasks/TeamworkProj/obj/Debug/net7.0/TeamworkProj.csproj.AssemblyReference.cache
+/Users/kalinaivanova/Projects/Tasks/TeamworkProj/obj/Debug/net7.0/TeamworkProj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalinaivanova/Projects/Tasks/TeamworkProj/obj/Debug/net7.0/TeamworkProj.AssemblyInfoInputs.cache
+/Users/kalinaivanova/Projects/Tasks/TeamworkProj/obj/Debug/net7.0/TeamworkProj.AssemblyInfo.cs
+/Users/kalinaivanova/Projects/Tasks/TeamworkProj/obj/Debug/net7.0/TeamworkProj.csproj.CoreCompileInputs.cache
+/Users/kalinaivanova/Projects/Tasks/TeamworkProj/obj/Debug/net7.0/TeamworkProj.dll
+/Users/kalinaivanova/Projects/Tasks/TeamworkProj/obj/Debug/net7.0/refint/TeamworkProj.dll
+/Users/kalinaivanova/Projects/Tasks/TeamworkProj/obj/Debug/net7.0/TeamworkProj.pdb
+/Users/kalinaivanova/Projects/Tasks/TeamworkProj/obj/Debug/net7.0/TeamworkProj.genruntimeconfig.cache
+/Users/kalinaivanova/Projects/Tasks/TeamworkProj/obj/Debug/net7.0/ref/TeamworkProj.dll

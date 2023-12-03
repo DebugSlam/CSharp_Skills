@@ -1,0 +1,15 @@
+/Users/kalinaivanova/Projects/Tasks/Articles/bin/Debug/net7.0/Articles
+/Users/kalinaivanova/Projects/Tasks/Articles/bin/Debug/net7.0/Articles.deps.json
+/Users/kalinaivanova/Projects/Tasks/Articles/bin/Debug/net7.0/Articles.runtimeconfig.json
+/Users/kalinaivanova/Projects/Tasks/Articles/bin/Debug/net7.0/Articles.dll
+/Users/kalinaivanova/Projects/Tasks/Articles/bin/Debug/net7.0/Articles.pdb
+/Users/kalinaivanova/Projects/Tasks/Articles/obj/Debug/net7.0/Articles.csproj.AssemblyReference.cache
+/Users/kalinaivanova/Projects/Tasks/Articles/obj/Debug/net7.0/Articles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalinaivanova/Projects/Tasks/Articles/obj/Debug/net7.0/Articles.AssemblyInfoInputs.cache
+/Users/kalinaivanova/Projects/Tasks/Articles/obj/Debug/net7.0/Articles.AssemblyInfo.cs
+/Users/kalinaivanova/Projects/Tasks/Articles/obj/Debug/net7.0/Articles.csproj.CoreCompileInputs.cache
+/Users/kalinaivanova/Projects/Tasks/Articles/obj/Debug/net7.0/Articles.dll
+/Users/kalinaivanova/Projects/Tasks/Articles/obj/Debug/net7.0/refint/Articles.dll
+/Users/kalinaivanova/Projects/Tasks/Articles/obj/Debug/net7.0/Articles.pdb
+/Users/kalinaivanova/Projects/Tasks/Articles/obj/Debug/net7.0/Articles.genruntimeconfig.cache
+/Users/kalinaivanova/Projects/Tasks/Articles/obj/Debug/net7.0/ref/Articles.dll
