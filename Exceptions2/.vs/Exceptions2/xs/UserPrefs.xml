@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{378F184D-1A94-4C70-AAD4-F5023B56EAAD}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kalinaivanova/Projects/Exceptions2/SumOfIntegersExceptions/Program.cs" relfile="SumOfIntegersExceptions/Program.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.EnterNumbersException FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SumOfIntegersExceptions/Program.cs">
+    <Files>
+      <File FileName="Exceptions2/Program.cs" Line="31" Column="54" />
+      <File FileName="EnterNumbersException/Program.cs" Line="21" Column="10" />
+      <File FileName="SumOfIntegersExceptions/Program.cs" Line="20" Column="14" />
+      <File FileName="PlayCatchExeptions/Program.cs" Line="52" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exceptions2" expanded="True">
+            <Node name="SumOfIntegersExceptions" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PlayCatchExeptions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Exceptions2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SumOfIntegersExceptions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

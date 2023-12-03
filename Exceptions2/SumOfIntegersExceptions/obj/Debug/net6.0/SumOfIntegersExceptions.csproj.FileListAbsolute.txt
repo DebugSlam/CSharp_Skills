@@ -1,0 +1,15 @@
+/Users/kalinaivanova/Projects/Exceptions2/SumOfIntegersExceptions/bin/Debug/net6.0/SumOfIntegersExceptions
+/Users/kalinaivanova/Projects/Exceptions2/SumOfIntegersExceptions/bin/Debug/net6.0/SumOfIntegersExceptions.deps.json
+/Users/kalinaivanova/Projects/Exceptions2/SumOfIntegersExceptions/bin/Debug/net6.0/SumOfIntegersExceptions.runtimeconfig.json
+/Users/kalinaivanova/Projects/Exceptions2/SumOfIntegersExceptions/bin/Debug/net6.0/SumOfIntegersExceptions.dll
+/Users/kalinaivanova/Projects/Exceptions2/SumOfIntegersExceptions/bin/Debug/net6.0/SumOfIntegersExceptions.pdb
+/Users/kalinaivanova/Projects/Exceptions2/SumOfIntegersExceptions/obj/Debug/net6.0/SumOfIntegersExceptions.csproj.AssemblyReference.cache
+/Users/kalinaivanova/Projects/Exceptions2/SumOfIntegersExceptions/obj/Debug/net6.0/SumOfIntegersExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalinaivanova/Projects/Exceptions2/SumOfIntegersExceptions/obj/Debug/net6.0/SumOfIntegersExceptions.AssemblyInfoInputs.cache
+/Users/kalinaivanova/Projects/Exceptions2/SumOfIntegersExceptions/obj/Debug/net6.0/SumOfIntegersExceptions.AssemblyInfo.cs
+/Users/kalinaivanova/Projects/Exceptions2/SumOfIntegersExceptions/obj/Debug/net6.0/SumOfIntegersExceptions.csproj.CoreCompileInputs.cache
+/Users/kalinaivanova/Projects/Exceptions2/SumOfIntegersExceptions/obj/Debug/net6.0/SumOfIntegersExceptions.dll
+/Users/kalinaivanova/Projects/Exceptions2/SumOfIntegersExceptions/obj/Debug/net6.0/refint/SumOfIntegersExceptions.dll
+/Users/kalinaivanova/Projects/Exceptions2/SumOfIntegersExceptions/obj/Debug/net6.0/SumOfIntegersExceptions.pdb
+/Users/kalinaivanova/Projects/Exceptions2/SumOfIntegersExceptions/obj/Debug/net6.0/SumOfIntegersExceptions.genruntimeconfig.cache
+/Users/kalinaivanova/Projects/Exceptions2/SumOfIntegersExceptions/obj/Debug/net6.0/ref/SumOfIntegersExceptions.dll
