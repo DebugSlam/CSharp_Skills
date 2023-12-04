@@ -1,0 +1,15 @@
+/Volumes/Data/Softuni/13-Resources-OOP-Principles-Encapsulation-Inheritance/BoxData/bin/Debug/net6.0/BoxData
+/Volumes/Data/Softuni/13-Resources-OOP-Principles-Encapsulation-Inheritance/BoxData/bin/Debug/net6.0/BoxData.deps.json
+/Volumes/Data/Softuni/13-Resources-OOP-Principles-Encapsulation-Inheritance/BoxData/bin/Debug/net6.0/BoxData.runtimeconfig.json
+/Volumes/Data/Softuni/13-Resources-OOP-Principles-Encapsulation-Inheritance/BoxData/bin/Debug/net6.0/BoxData.dll
+/Volumes/Data/Softuni/13-Resources-OOP-Principles-Encapsulation-Inheritance/BoxData/bin/Debug/net6.0/BoxData.pdb
+/Volumes/Data/Softuni/13-Resources-OOP-Principles-Encapsulation-Inheritance/BoxData/obj/Debug/net6.0/BoxData.csproj.AssemblyReference.cache
+/Volumes/Data/Softuni/13-Resources-OOP-Principles-Encapsulation-Inheritance/BoxData/obj/Debug/net6.0/BoxData.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/Softuni/13-Resources-OOP-Principles-Encapsulation-Inheritance/BoxData/obj/Debug/net6.0/BoxData.AssemblyInfoInputs.cache
+/Volumes/Data/Softuni/13-Resources-OOP-Principles-Encapsulation-Inheritance/BoxData/obj/Debug/net6.0/BoxData.AssemblyInfo.cs
+/Volumes/Data/Softuni/13-Resources-OOP-Principles-Encapsulation-Inheritance/BoxData/obj/Debug/net6.0/BoxData.csproj.CoreCompileInputs.cache
+/Volumes/Data/Softuni/13-Resources-OOP-Principles-Encapsulation-Inheritance/BoxData/obj/Debug/net6.0/BoxData.dll
+/Volumes/Data/Softuni/13-Resources-OOP-Principles-Encapsulation-Inheritance/BoxData/obj/Debug/net6.0/refint/BoxData.dll
+/Volumes/Data/Softuni/13-Resources-OOP-Principles-Encapsulation-Inheritance/BoxData/obj/Debug/net6.0/BoxData.pdb
+/Volumes/Data/Softuni/13-Resources-OOP-Principles-Encapsulation-Inheritance/BoxData/obj/Debug/net6.0/BoxData.genruntimeconfig.cache
+/Volumes/Data/Softuni/13-Resources-OOP-Principles-Encapsulation-Inheritance/BoxData/obj/Debug/net6.0/ref/BoxData.dll
