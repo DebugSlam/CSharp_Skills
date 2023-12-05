@@ -1,0 +1,15 @@
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Cars/bin/Debug/net6.0/Cars
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Cars/bin/Debug/net6.0/Cars.deps.json
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Cars/bin/Debug/net6.0/Cars.runtimeconfig.json
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Cars/bin/Debug/net6.0/Cars.dll
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Cars/bin/Debug/net6.0/Cars.pdb
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Cars/obj/Debug/net6.0/Cars.csproj.AssemblyReference.cache
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Cars/obj/Debug/net6.0/Cars.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Cars/obj/Debug/net6.0/Cars.AssemblyInfoInputs.cache
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Cars/obj/Debug/net6.0/Cars.AssemblyInfo.cs
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Cars/obj/Debug/net6.0/Cars.csproj.CoreCompileInputs.cache
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Cars/obj/Debug/net6.0/Cars.dll
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Cars/obj/Debug/net6.0/refint/Cars.dll
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Cars/obj/Debug/net6.0/Cars.pdb
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Cars/obj/Debug/net6.0/Cars.genruntimeconfig.cache
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Cars/obj/Debug/net6.0/ref/Cars.dll

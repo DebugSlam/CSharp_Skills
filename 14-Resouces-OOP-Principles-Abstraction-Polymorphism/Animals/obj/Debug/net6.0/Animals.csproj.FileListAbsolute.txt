@@ -1,0 +1,15 @@
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Animals/obj/Debug/net6.0/Animals.csproj.AssemblyReference.cache
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Animals/obj/Debug/net6.0/Animals.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Animals/obj/Debug/net6.0/Animals.AssemblyInfoInputs.cache
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Animals/obj/Debug/net6.0/Animals.AssemblyInfo.cs
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Animals/obj/Debug/net6.0/Animals.csproj.CoreCompileInputs.cache
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Animals/bin/Debug/net6.0/Animals
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Animals/bin/Debug/net6.0/Animals.deps.json
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Animals/bin/Debug/net6.0/Animals.runtimeconfig.json
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Animals/bin/Debug/net6.0/Animals.dll
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Animals/bin/Debug/net6.0/Animals.pdb
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Animals/obj/Debug/net6.0/Animals.dll
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Animals/obj/Debug/net6.0/refint/Animals.dll
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Animals/obj/Debug/net6.0/Animals.pdb
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Animals/obj/Debug/net6.0/Animals.genruntimeconfig.cache
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Animals/obj/Debug/net6.0/ref/Animals.dll

@@ -1,0 +1,15 @@
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Raiding/obj/Debug/net6.0/Raiding.csproj.AssemblyReference.cache
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Raiding/obj/Debug/net6.0/Raiding.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Raiding/obj/Debug/net6.0/Raiding.AssemblyInfoInputs.cache
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Raiding/obj/Debug/net6.0/Raiding.AssemblyInfo.cs
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Raiding/obj/Debug/net6.0/Raiding.csproj.CoreCompileInputs.cache
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Raiding/bin/Debug/net6.0/Raiding
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Raiding/bin/Debug/net6.0/Raiding.deps.json
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Raiding/bin/Debug/net6.0/Raiding.runtimeconfig.json
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Raiding/bin/Debug/net6.0/Raiding.dll
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Raiding/bin/Debug/net6.0/Raiding.pdb
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Raiding/obj/Debug/net6.0/Raiding.dll
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Raiding/obj/Debug/net6.0/refint/Raiding.dll
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Raiding/obj/Debug/net6.0/Raiding.pdb
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Raiding/obj/Debug/net6.0/Raiding.genruntimeconfig.cache
+/Volumes/Data/Softuni/14-Resouces-OOP-Principles-Abstraction-Polymorphism/Raiding/obj/Debug/net6.0/ref/Raiding.dll

@@ -1,0 +1,66 @@
+﻿<Properties StartupConfiguration="{FE389A59-0628-4C3F-8A8A-F0B4A171A11C}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Cars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Raiding PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Animals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Shapes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shapes/Program.cs">
+    <Files>
+      <File FileName="Raiding/Program.cs" Line="5" Column="1" />
+      <File FileName="Shapes/IDrawable.cs" Line="6" Column="2" />
+      <File FileName="Shapes/Program.cs" Line="18" Column="48" />
+      <File FileName="Shapes/Circle.cs" Line="14" Column="1" />
+      <File FileName="Shapes/Rectangle.cs" Line="31" Column="1" />
+      <File FileName="Cars/ICar.cs" Line="9" Column="26" />
+      <File FileName="Cars/Program.cs" Line="10" Column="37" />
+      <File FileName="Cars/IElectricCar.cs" Line="4" Column="19" />
+      <File FileName="Cars/Seat.cs" Line="26" Column="52" />
+      <File FileName="Cars/Tesla.cs" Line="27" Column="75" />
+      <File FileName="Animals/Models/Animal.cs" Line="7" Column="25" />
+      <File FileName="Animals/Program.cs" Line="7" Column="41" />
+      <File FileName="Animals/Cat.cs" Line="13" Column="2" />
+      <File FileName="Animals/Dog.cs" Line="13" Column="42" />
+      <File FileName="Raiding/Models/BaseHero.cs" Line="1" Column="1" />
+      <File FileName="Raiding/Contracts/IHero.cs" Line="1" Column="1" />
+      <File FileName="Raiding/Models/Heroes/Fighter.cs" Line="4" Column="31" />
+      <File FileName="Raiding/Models/Healer.cs" Line="14" Column="55" />
+      <File FileName="Raiding/Druid.cs" Line="4" Column="7" />
+      <File FileName="Raiding/Paladin.cs" Line="12" Column="2" />
+      <File FileName="Raiding/Rogue.cs" Line="10" Column="2" />
+      <File FileName="Raiding/Warrior.cs" Line="8" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LabAbstractionPolymorphism" expanded="True">
+            <Node name="Cars" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="Raiding" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Contracts" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Heroes" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Shapes" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
