@@ -1,0 +1,15 @@
+/Users/kalinaivanova/Projects/FarmOOPHierarchy/FarmOOPHierarchy/obj/Debug/net6.0/FarmOOPHierarchy.csproj.AssemblyReference.cache
+/Users/kalinaivanova/Projects/FarmOOPHierarchy/FarmOOPHierarchy/obj/Debug/net6.0/FarmOOPHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalinaivanova/Projects/FarmOOPHierarchy/FarmOOPHierarchy/obj/Debug/net6.0/FarmOOPHierarchy.AssemblyInfoInputs.cache
+/Users/kalinaivanova/Projects/FarmOOPHierarchy/FarmOOPHierarchy/obj/Debug/net6.0/FarmOOPHierarchy.AssemblyInfo.cs
+/Users/kalinaivanova/Projects/FarmOOPHierarchy/FarmOOPHierarchy/obj/Debug/net6.0/FarmOOPHierarchy.csproj.CoreCompileInputs.cache
+/Users/kalinaivanova/Projects/FarmOOPHierarchy/FarmOOPHierarchy/bin/Debug/net6.0/FarmOOPHierarchy
+/Users/kalinaivanova/Projects/FarmOOPHierarchy/FarmOOPHierarchy/bin/Debug/net6.0/FarmOOPHierarchy.deps.json
+/Users/kalinaivanova/Projects/FarmOOPHierarchy/FarmOOPHierarchy/bin/Debug/net6.0/FarmOOPHierarchy.runtimeconfig.json
+/Users/kalinaivanova/Projects/FarmOOPHierarchy/FarmOOPHierarchy/bin/Debug/net6.0/FarmOOPHierarchy.dll
+/Users/kalinaivanova/Projects/FarmOOPHierarchy/FarmOOPHierarchy/bin/Debug/net6.0/FarmOOPHierarchy.pdb
+/Users/kalinaivanova/Projects/FarmOOPHierarchy/FarmOOPHierarchy/obj/Debug/net6.0/FarmOOPHierarchy.dll
+/Users/kalinaivanova/Projects/FarmOOPHierarchy/FarmOOPHierarchy/obj/Debug/net6.0/refint/FarmOOPHierarchy.dll
+/Users/kalinaivanova/Projects/FarmOOPHierarchy/FarmOOPHierarchy/obj/Debug/net6.0/FarmOOPHierarchy.pdb
+/Users/kalinaivanova/Projects/FarmOOPHierarchy/FarmOOPHierarchy/obj/Debug/net6.0/FarmOOPHierarchy.genruntimeconfig.cache
+/Users/kalinaivanova/Projects/FarmOOPHierarchy/FarmOOPHierarchy/obj/Debug/net6.0/ref/FarmOOPHierarchy.dll

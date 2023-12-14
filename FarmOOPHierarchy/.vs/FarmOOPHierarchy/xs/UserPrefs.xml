@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{4C6766C2-DB31-445C-8402-A9D93525A475}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FarmOOPHierarchy/Program.cs">
+    <Files>
+      <File FileName="FarmOOPHierarchy/Program.cs" Line="24" Column="4" />
+      <File FileName="FarmOOPHierarchy/Food/Food.cs" Line="17" Column="10" />
+      <File FileName="FarmOOPHierarchy/Food/Vegetable.cs" Line="4" Column="11" />
+      <File FileName="FarmOOPHierarchy/Food/Fruit.cs" Line="4" Column="20" />
+      <File FileName="FarmOOPHierarchy/Food/Vegetable (another copy).cs" Line="4" Column="29" />
+      <File FileName="FarmOOPHierarchy/Food/Seeds.cs" Line="4" Column="30" />
+      <File FileName="FarmOOPHierarchy/Food/Animal.cs" Line="4" Column="24" />
+      <File FileName="FarmOOPHierarchy/Animal/Bird.cs" Line="14" Column="42" />
+      <File FileName="FarmOOPHierarchy/Animal/Owl.cs" Line="17" Column="1" />
+      <File FileName="FarmOOPHierarchy/Animal/Hen.cs" Line="6" Column="46" />
+      <File FileName="FarmOOPHierarchy/Animal/Mammal/Mammal.cs" Line="16" Column="38" />
+      <File FileName="FarmOOPHierarchy/Animal/Mammal/Mouse.cs" Line="6" Column="90" />
+      <File FileName="FarmOOPHierarchy/Animal/Mammal/Dog.cs" Line="6" Column="46" />
+      <File FileName="FarmOOPHierarchy/Animal/Mammal/Feline.cs" Line="20" Column="1" />
+      <File FileName="FarmOOPHierarchy/Animal/Mammal/Feline/Cat.cs" Line="4" Column="24" />
+      <File FileName="FarmOOPHierarchy/Animal/Mammal/Feline/Tiger.cs" Line="6" Column="48" />
+      <File FileName="FarmOOPHierarchy/Animal/ITalk.cs" Line="7" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FarmOOPHierarchy" expanded="True">
+            <Node name="FarmOOPHierarchy">
+              <Node name="Animal" expanded="True">
+                <Node name="Mammal" expanded="True">
+                  <Node name="Feline" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Food" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FarmOOPHierarchy PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

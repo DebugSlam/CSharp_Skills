@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{E7856FA4-DBFC-41D7-BADF-9FFE197AB63B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp.Tests/CsvParserTests.cs">
+    <Files>
+      <File FileName="TestApp/CsvParser.cs" />
+      <File FileName="TestApp.Tests/CsvParserTests.cs" Line="40" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringProblems" expanded="True">
+            <Node name="TestApp" expanded="True" />
+            <Node name="TestApp.Tests" expanded="True">
+              <Node name="CsvParserTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="StringProblems" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TestApp.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

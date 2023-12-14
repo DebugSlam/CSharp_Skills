@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{30ACFD80-A560-434F-B1F1-EB0308B1A281}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp.Tests/FruitsTests.cs">
+    <Files>
+      <File FileName="TestApp.Tests/FruitsTests.cs" Line="93" Column="72" />
+      <File FileName="TestApp/Fruits.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DictionaryProblems" expanded="True">
+            <Node name="TestApp" expanded="True" />
+            <Node name="TestApp.Tests" expanded="True">
+              <Node name="FruitsTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DictionaryProblems" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TestApp.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

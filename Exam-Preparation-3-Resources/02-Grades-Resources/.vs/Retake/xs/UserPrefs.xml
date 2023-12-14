@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp.Tests/GradesTests.cs">
+    <Files>
+      <File FileName="TestApp.Tests/GradesTests.cs" Line="95" Column="51" />
+      <File FileName="TestApp/Grades.cs" Line="24" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Retake" expanded="True">
+            <Node name="TestApp" expanded="True" />
+            <Node name="TestApp.Tests" expanded="True">
+              <Node name="GradesTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Retake">
+            <Node name="TestApp.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

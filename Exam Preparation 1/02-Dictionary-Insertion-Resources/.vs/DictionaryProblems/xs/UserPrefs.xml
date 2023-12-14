@@ -1,0 +1,36 @@
+﻿<Properties>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp.Tests/DictionaryIntersectionTests.cs">
+    <Files>
+      <File FileName="TestApp/DictionaryIntersection.cs" Line="8" Column="9" />
+      <File FileName="TestApp.Tests/DictionaryIntersectionTests.cs" Line="120" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DictionaryProblems" expanded="True">
+            <Node name="TestApp" expanded="True" />
+            <Node name="TestApp.Tests" expanded="True">
+              <Node name="DictionaryIntersectionTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DictionaryProblems">
+            <Node name="TestApp.Tests" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

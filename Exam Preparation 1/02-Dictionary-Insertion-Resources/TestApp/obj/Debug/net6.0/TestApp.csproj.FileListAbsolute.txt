@@ -1,0 +1,12 @@
+/Volumes/Data/Softuni/Resources/02-Dictionary-Insertion-Resources/TestApp/bin/Debug/net6.0/TestApp.deps.json
+/Volumes/Data/Softuni/Resources/02-Dictionary-Insertion-Resources/TestApp/bin/Debug/net6.0/TestApp.dll
+/Volumes/Data/Softuni/Resources/02-Dictionary-Insertion-Resources/TestApp/bin/Debug/net6.0/TestApp.pdb
+/Volumes/Data/Softuni/Resources/02-Dictionary-Insertion-Resources/TestApp/obj/Debug/net6.0/TestApp.csproj.AssemblyReference.cache
+/Volumes/Data/Softuni/Resources/02-Dictionary-Insertion-Resources/TestApp/obj/Debug/net6.0/TestApp.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/Softuni/Resources/02-Dictionary-Insertion-Resources/TestApp/obj/Debug/net6.0/TestApp.AssemblyInfoInputs.cache
+/Volumes/Data/Softuni/Resources/02-Dictionary-Insertion-Resources/TestApp/obj/Debug/net6.0/TestApp.AssemblyInfo.cs
+/Volumes/Data/Softuni/Resources/02-Dictionary-Insertion-Resources/TestApp/obj/Debug/net6.0/TestApp.csproj.CoreCompileInputs.cache
+/Volumes/Data/Softuni/Resources/02-Dictionary-Insertion-Resources/TestApp/obj/Debug/net6.0/TestApp.dll
+/Volumes/Data/Softuni/Resources/02-Dictionary-Insertion-Resources/TestApp/obj/Debug/net6.0/refint/TestApp.dll
+/Volumes/Data/Softuni/Resources/02-Dictionary-Insertion-Resources/TestApp/obj/Debug/net6.0/TestApp.pdb
+/Volumes/Data/Softuni/Resources/02-Dictionary-Insertion-Resources/TestApp/obj/Debug/net6.0/ref/TestApp.dll

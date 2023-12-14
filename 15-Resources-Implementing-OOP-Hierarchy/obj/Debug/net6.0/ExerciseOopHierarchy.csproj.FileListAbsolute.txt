@@ -1,0 +1,15 @@
+/Volumes/Data/Softuni/15-Resources-Implementing-OOP-Hierarchy/bin/Debug/net6.0/ExerciseOopHierarchy
+/Volumes/Data/Softuni/15-Resources-Implementing-OOP-Hierarchy/bin/Debug/net6.0/ExerciseOopHierarchy.deps.json
+/Volumes/Data/Softuni/15-Resources-Implementing-OOP-Hierarchy/bin/Debug/net6.0/ExerciseOopHierarchy.runtimeconfig.json
+/Volumes/Data/Softuni/15-Resources-Implementing-OOP-Hierarchy/bin/Debug/net6.0/ExerciseOopHierarchy.dll
+/Volumes/Data/Softuni/15-Resources-Implementing-OOP-Hierarchy/bin/Debug/net6.0/ExerciseOopHierarchy.pdb
+/Volumes/Data/Softuni/15-Resources-Implementing-OOP-Hierarchy/obj/Debug/net6.0/ExerciseOopHierarchy.csproj.AssemblyReference.cache
+/Volumes/Data/Softuni/15-Resources-Implementing-OOP-Hierarchy/obj/Debug/net6.0/ExerciseOopHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/Softuni/15-Resources-Implementing-OOP-Hierarchy/obj/Debug/net6.0/ExerciseOopHierarchy.AssemblyInfoInputs.cache
+/Volumes/Data/Softuni/15-Resources-Implementing-OOP-Hierarchy/obj/Debug/net6.0/ExerciseOopHierarchy.AssemblyInfo.cs
+/Volumes/Data/Softuni/15-Resources-Implementing-OOP-Hierarchy/obj/Debug/net6.0/ExerciseOopHierarchy.csproj.CoreCompileInputs.cache
+/Volumes/Data/Softuni/15-Resources-Implementing-OOP-Hierarchy/obj/Debug/net6.0/ExerciseOopHierarchy.dll
+/Volumes/Data/Softuni/15-Resources-Implementing-OOP-Hierarchy/obj/Debug/net6.0/refint/ExerciseOopHierarchy.dll
+/Volumes/Data/Softuni/15-Resources-Implementing-OOP-Hierarchy/obj/Debug/net6.0/ExerciseOopHierarchy.pdb
+/Volumes/Data/Softuni/15-Resources-Implementing-OOP-Hierarchy/obj/Debug/net6.0/ExerciseOopHierarchy.genruntimeconfig.cache
+/Volumes/Data/Softuni/15-Resources-Implementing-OOP-Hierarchy/obj/Debug/net6.0/ref/ExerciseOopHierarchy.dll
