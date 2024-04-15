@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{D9673E41-FDA0-4155-BCBD-5E0C3770CECF}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.IdeaAPITesting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="IdeaAPITesting/Usings.cs">
+    <Files>
+      <File FileName="IdeaAPITesting/UnitTest1.cs" Line="192" Column="19" />
+      <File FileName="IdeaAPITesting/Usings.cs" Line="1" Column="1" />
+      <File FileName="IdeaAPITesting/Models/ApiResponseDTO.cs" Line="9" Column="3" />
+      <File FileName="IdeaAPITesting/Models/IdeaDTO.cs" Line="14" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IdeaAPITesting" expanded="True">
+            <Node name="IdeaAPITesting">
+              <Node name="IdeaAPITesting.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
